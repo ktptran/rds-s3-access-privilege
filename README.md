@@ -4,7 +4,7 @@
 
 ### rds-access
 
-1. Provide the DNS endpoint instead & associate DB instance name / type of DB found (completed)
+1. Provide the DNS endpoint instead & associate DB instance name / type of DB found
 2. User list and permissions for RDS
 
 ### s3-access
